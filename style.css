@@ -1,0 +1,11 @@
+th,
+td {
+    background-color: #424250;
+    color: aliceblue;
+    border: 1px;
+}
+
+th {
+    background-color: #BB86FC;
+    color: aliceblue;
+}
